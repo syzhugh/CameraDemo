@@ -31,6 +31,7 @@ public class AutoFocusCallBack implements Camera.AutoFocusCallback {
                 start();
             }
         };
+
         start();
     }
 

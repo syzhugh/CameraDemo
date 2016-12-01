@@ -5,4 +5,5 @@ package sun.camerademo.qrcode.decode;
  */
 
 public class DecodeThread {
+
 }
