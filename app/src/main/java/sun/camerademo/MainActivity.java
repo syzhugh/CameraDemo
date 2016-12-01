@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
     private Camera.Parameters parameters;
 
 
+    
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
